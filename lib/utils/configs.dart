@@ -10,7 +10,7 @@ const IOS_LINK_FOR_PARTNER = "https://apps.apple.com/in/app/handyman-provider-ap
 
 var defaultPrimaryColor = Color(0xFF5F60B9);
 
-const DOMAIN_URL = '';
+const DOMAIN_URL = 'http://jugaarservice.com';
 const BASE_URL = '$DOMAIN_URL/api/';
 
 const ONESIGNAL_APP_ID = '';
@@ -22,8 +22,8 @@ const PRIVACY_POLICY_URL = 'https://iqonic.design/privacy-policy/';
 const HELP_SUPPORT_URL = 'https://iqonic.desky.support/';
 const PURCHASE_URL = 'https://codecanyon.net/item/handyman-service-flutter-ondemand-home-services-app-with-complete-solution/33776097?s_rank=16';
 
-const STRIPE_PAYMENT_PUBLISH_KEY = 'pk_test_51GrhA2Bz1ljKAgF98fI6WfB2YUn4CewOB0DNQC1pSeXspUc1LlUYs3ou19oPF0ATcqa52FXTYmv6v0mkvPZb9BSD00SUpBj9tI';
-const STRIPE_MERCHANT_COUNTRY_CODE = 'IN';
-const STRIPE_CURRENCY_CODE = 'INR';
+//const STRIPE_PAYMENT_PUBLISH_KEY = 'pk_test_51GrhA2Bz1ljKAgF98fI6WfB2YUn4CewOB0DNQC1pSeXspUc1LlUYs3ou19oPF0ATcqa52FXTYmv6v0mkvPZb9BSD00SUpBj9tI';
+const STRIPE_MERCHANT_COUNTRY_CODE = 'PK';
+const STRIPE_CURRENCY_CODE = 'PKR';
 
 DateTime todayDate = DateTime(2022, 8, 24);

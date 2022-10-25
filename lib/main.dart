@@ -52,7 +52,7 @@ void main() async {
   await initialize();
   localeLanguageList = languageList();
 
-  Stripe.publishableKey = STRIPE_PAYMENT_PUBLISH_KEY;
+  //Stripe.publishableKey = STRIPE_PAYMENT_PUBLISH_KEY;
 
   Firebase.initializeApp().then((value) {
     FlutterError.onError = FirebaseCrashlytics.instance.recordFlutterFatalError;
