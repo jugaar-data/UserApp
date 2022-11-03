@@ -1,4 +1,4 @@
-package com.iqonic.servicebooking
+package com.jugaarservice.servicebooking
 
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.android.FlutterFragmentActivity

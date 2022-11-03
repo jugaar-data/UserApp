@@ -1,7 +1,7 @@
 import 'package:nb_utils/nb_utils.dart';
 
 /// DO NOT CHANGE THIS PACKAGE NAME
-var appPackageName = isAndroid ? 'com.iqonic.servicebooking' : 'com.iqonic.user';
+var appPackageName = isAndroid ? 'com.jugaarservice.servicebooking' : 'com.iqonic.user';
 
 //region Common Configs
 const DEFAULT_FIREBASE_PASSWORD = 12345678;

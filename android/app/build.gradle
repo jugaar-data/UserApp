@@ -26,7 +26,7 @@ android {
     }
 
     defaultConfig {
-        applicationId 'com.iqonic.servicebooking'
+        applicationId 'com.jugaarservice.servicebooking'
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 36
@@ -49,6 +49,6 @@ dependencies {
 
     implementation "androidx.appcompat:appcompat:1.4.2"
 
-    implementation platform('com.google.firebase:firebase-bom:30.3.1')
+    implementation platform('com.google.firebase:firebase-bom:31.0.2')
     implementation 'com.google.firebase:firebase-analytics'
 }
